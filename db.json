@@ -1,0 +1,139 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "category": "fat-free",
+      "title": "basil and tomato soup"
+    },
+    {
+      "id": 2,
+      "category": "vegan",
+      "title": "chilli honey veg pot"
+    },
+    {
+      "id": 3,
+      "category": "vegan",
+      "title": "soy curry"
+    },
+    {
+      "id": 4,
+      "category": "fat-free",
+      "title": "Steamed fish salad"
+    },
+    {
+      "id": 5,
+      "category": "vegan",
+      "title": "tomato soup"
+    },
+    {
+      "id": 6,
+      "category": "fat-free",
+      "title": "skimmed milk pesto pasta"
+    },
+    {
+      "id": 7,
+      "category": "fat-free",
+      "title": "chicken breast salad"
+    },
+    {
+      "id": 8,
+      "category": "vegan",
+      "title": "almon sauce pasta"
+    },
+    {
+      "id": 9,
+      "category": "vegan",
+      "title": "soy milk"
+    },
+    {
+      "id": 10,
+      "category": "vegan",
+      "title": "salad"
+    },
+    {
+      "id": 11,
+      "category": "vegan",
+      "title": "asparagus rice"
+    },
+    {
+      "id": 12,
+      "category": "vegan",
+      "title": "potato salad"
+    },
+    {
+      "id": 13,
+      "category": "fat-free",
+      "title": "roti and curry"
+    },
+    {
+      "id": 14,
+      "category": "fat-free",
+      "title": "cucumber sandwich"
+    },
+    {
+      "id": 15,
+      "category": "vegan",
+      "title": "soy rice"
+    },
+    {
+      "id": 16,
+      "category": "vegan",
+      "title": "soy coffee"
+    },
+    {
+      "id": 17,
+      "category": "fat-free",
+      "title": "orange juice"
+    },
+    {
+      "id": 18,
+      "category": "vegan",
+      "title": "mashed potato"
+    },
+    {
+      "id": 19,
+      "category": "fat-free",
+      "title": "ribs"
+    },
+    {
+      "id": 20,
+      "category": "vegan",
+      "title": "fried onions"
+    },
+    {
+      "id": 21,
+      "category": "vegan",
+      "title": "deep fried burger"
+    },
+    {
+      "id": 22,
+      "category": "fat-free",
+      "title": "pasta with olive oil and mushroom sauce"
+    },
+    {
+      "id": 23,
+      "category": "vegan",
+      "title": "plant based thai curry"
+    },
+    {
+      "id": 24,
+      "category": "vegan",
+      "title": "wheat pasta"
+    },
+    {
+      "id": 25,
+      "category": "fat-free",
+      "title": "lamb chops"
+    },
+    {
+      "id": 26,
+      "category": "vegan",
+      "title": "lemon rice"
+    },
+    {
+      "id": 27,
+      "category": "fat-free",
+      "title": "chicken"
+    }
+  ]
+}
